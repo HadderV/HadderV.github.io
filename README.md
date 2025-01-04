@@ -6,7 +6,7 @@ Welcome to my GitHub portfolio! I'm a Data Analyst with 8+ years of experience i
 
 ## 🔍 About Me  
 
-- 💼 **Current Role:** Offering services as a frelance Data Analyst specializing in Customer Analytics, Bussiness Intelligence and Data Visualization.
+- 💼 **Current Role:** Offering services as a freelance Data Analyst specializing in Customer Analytics, Bussiness Intelligence and Data Visualization.
 - 🏢 **Past Experience:** Worked as a Customer Experience Data Analyst at Banco AVVillas for 8 years.
 - 🎓 **Skills:** Data Analysis, SQL, Python, SSPSS Modeler, Excel, Access, VBA, Tableau, and Power BI.
 - 🌱 **Currently Learning:** Improving my Python programing skills, learning advanced techniques in machine learning and AI for data solutions.
