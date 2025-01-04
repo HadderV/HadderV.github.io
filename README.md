@@ -17,23 +17,24 @@ Welcome to my GitHub portfolio! I'm a Data Analyst with 8+ years of experience i
 ## 🛠️ Projects  
 
 ### 1. [Project Name 1]
-### 2. Restaurant Billing System
+### 2. Restaurant Billing System Code.py
 
 
 ---
 
-## 🌟 Highlights
+## 📜 Certifications
 
-- 📊 Created a [highlighted report/project] that helped [impact achieved].
-- 🏆 Recognized for [specific achievement or award].
-- 🤖 Innovating robotics-inspired solutions for real-world data problems.
+- [![Python](https://img.shields.io/badge/Certification-Python-blue?style=flat-square&logo=python&logoColor=white)](https://www.linkedin.com/in/hadder-valencia-aba52a65)
+- [![SQL](https://img.shields.io/badge/Certification-SQL-lightgrey?style=flat-square&logo=postgresql&logoColor=white)](https://www.linkedin.com/in/hadder-valencia-aba52a65)
+- [![SPSS Modeler](https://img.shields.io/badge/Certification-SPSS%20Modeler-yellow?style=flat-square&logo=ibm&logoColor=white)](https://www.linkedin.com/in/hadder-valencia-aba52a65)
+- [![Microsoft Power BI](https://img.shields.io/badge/Certification-Power%20BI-darkblue?style=flat-square&logo=power-bi&logoColor=white)](https://www.linkedin.com/in/hadder-valencia-aba52a65)
 
 ---
 
 ## 📫 Let's Connect  
 
 - [![Email](https://img.shields.io/badge/Email-hader_valencia@hotmail.com-red?style=flat-square&logo=gmail)](mailto:hader_valencia@hotmail.com)  
-- 💼 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hadder-valencia-aba52a65)]
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hadder-valencia-aba52a65)]
   
 ---
 
