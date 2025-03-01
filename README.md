@@ -16,7 +16,7 @@ Welcome to my GitHub portfolio! I'm a Data Analyst with 8+ years of experience i
 
 ## 🛠️ Projects  
 
-### 1. [Project Name 1]
+### 1. Financial Dataset Summary for Power BI Reports
 ### 2. Restaurant Billing System Code.py
 
 
